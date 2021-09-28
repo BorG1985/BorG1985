@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @BorG1985
-- 👀 I’m interested in php, wp, MySQL...whole web developing techs
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ismet Mujezinovic<br>
+- I’m have basic knowledge in python,django,js,html,bootstrap,reactjs,php, wp, MySQL...web developing techs
+- Looking for mentoring to advance my skills
 
 <!---
 BorG1985/BorG1985 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
