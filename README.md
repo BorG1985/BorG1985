@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ismet Mujezinovic<br>
-- I’m have basic knowledge in python,django,js,html,bootstrap,reactjs,php, wp, MySQL...web developing techs
+- I’m have knowledge in python,django,js,html,bootstrap,reactjs,php, wp, MySQL...web developing techs
 - Looking for mentoring to advance my skills
 
 <!---
